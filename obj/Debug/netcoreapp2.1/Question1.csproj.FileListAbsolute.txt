@@ -30,3 +30,4 @@ C:\Users\Jagpreet Kaur\source\repos\Question1\obj\Debug\netcoreapp2.1\Question1.
 C:\Users\Jagpreet Kaur\source\repos\Question1\obj\Debug\netcoreapp2.1\Question1.dll
 C:\Users\Jagpreet Kaur\source\repos\Question1\obj\Debug\netcoreapp2.1\Question1.pdb
 C:\Users\Jagpreet Kaur\source\repos\Question1\obj\Debug\netcoreapp2.1\Question1.csproj.CopyComplete
+C:\Users\Jagpreet Kaur\source\repos\Question1\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.g.cshtml.cs
