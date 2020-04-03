@@ -6,8 +6,8 @@
 <h2>Meassage from ViewBag:</h2><h2 style="color:purple">@ViewBag.Message</h2>
 <br />
 <h2>Details of Employees from ViewData:</h2>
-<table>
-    <tr>
+<table style="border:1px solid black">
+    <tr style="border:1px solid black">
         <td>ID</td>
         <td>Name</td>
         <td>Designation</td>
@@ -15,7 +15,7 @@
     </tr>
     @foreach (var emp in (IEnumerable<Employee>) VempData["EmpList"])
     {
-    <tr>
+    <tr style="border:1px solid black">
     <td>@emp.Id</td>
     <td>@emp.Name</td>
     <td>@emp.Designation</td>
