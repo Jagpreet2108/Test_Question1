@@ -13,7 +13,7 @@
         <td>Designation</td>
         <td>Contact</td>
     </tr>
-    @foreach (var emp in (IEnumerable<Employee>) VempData["EmpList"])
+    @foreach (var emp in (IEnumerable<Employee>) ViewData["EmpList"])
     {
     <tr style="border:1px solid black">
     <td>@emp.Id</td>
